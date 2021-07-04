@@ -51,7 +51,7 @@ I don't know if this only happens in Europe, but sometimes I need to wait up to 
 <small><a href="https://aka.ms/AA8a3ix">https://aka.ms/AA8a3ix</a></small>
 
 No Points. No Award. Nothing. The quests are really pointless. They're more tutorials for new features. Not quests. You can just click finish, even if you didn't do something.
-## How could Microsoft repair their fault?
+## How could Microsoft make it better?
 In my opinion Microsoft should:
 
 *   Add more employees or allow outside collaborators
