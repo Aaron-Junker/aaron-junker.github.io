@@ -11,6 +11,8 @@ category: general
 
 {% include ownOpinion.md %}
 
+(You can find a link to this blog post in the Feedback Hub here <a href="https://aka.ms/AAd37ra">https://aka.ms/AAd37ra</a>
+
 ## What exactly is the Feedback Hub?
 The Feedback Hub is an App for Windows 10 and Windows 11 for providing Feedback on Windows and applications which run on Windows. Microsoft first created the Insider Hub, so that the testers of the Windows 10 beta were able to provide feedback. On March 17, 2016 it was merged into a new app called Feedback Hub, accessible for everyone.
 
