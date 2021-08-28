@@ -49,4 +49,15 @@ If you want to know more about this release (like bugfixes, etc.) you can read t
 
 ## PowerToys settings get a new fresh desing.
 
-The Microsoft PowerToys Settings are getting a new desing. 
+The Microsoft PowerToys Settings are getting a new desing. The UX desinger Niels9001 created a deing in the style of the Windows 11 settings:
+
+![image](https://user-images.githubusercontent.com/58633848/131213666-eeb1071b-06fc-43e1-ba8a-d9d29a450108.png)
+
+<small>Source: [Pull Request in the PowerToys repository](https://github.com/microsoft/PowerToys/pull/12470)</small>
+
+You can read all about it in the [Pull Request](https://github.com/microsoft/PowerToys/pull/12470).
+
+It will ship with the next major release of PowerToys.
+
+
+<i>That's all. Did I misss something? Write it into the comments.</i>
