@@ -60,4 +60,4 @@ You can read all about it in the [Pull Request](https://github.com/microsoft/Pow
 It will ship with the next major release of PowerToys.
 
 
-<i>That's all. Did I misss something? Write it into the comments.</i>
+<i>That's all. Did I miss something? Write it into the comments.</i>
