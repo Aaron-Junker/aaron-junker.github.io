@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Last week at Windows #1 (CW 34)
+title: Last week at Windows Nr. 1 (CW 34)
 category: LWW
 ---
 
