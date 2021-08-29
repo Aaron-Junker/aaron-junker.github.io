@@ -47,7 +47,7 @@ With this widget you can open see recent activity and open recent documents.
 
 If you want to know more about this release (like bugfixes, etc.) you can read the [official blog article](https://blogs.windows.com/windows-insider/2021/08/27/announcing-windows-11-insider-preview-build-22000-168/).
 
-## PowerToys settings get a new fresh desing.
+## PowerToys settings are getting a new fresh desing.
 
 The Microsoft PowerToys Settings are getting a new desing. The UX desinger Niels9001 created a deing in the style of the Windows 11 settings:
 
