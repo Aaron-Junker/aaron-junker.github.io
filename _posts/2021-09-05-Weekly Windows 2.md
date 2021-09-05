@@ -10,14 +10,14 @@ Welcome to the review of the last week topics in the world of Windows. Many new 
 
 ## Windows 11 release date got announced
 
-Microsoft announced in a [blog post](https://blogs.windows.com/windowsexperience/2021/08/31/windows-11-available-on-october-5/) that Windows 11 will be available october 5th. It will be a staged release, so not everyone will receive the final build on this day.
+Microsoft announced in a [blog post](https://blogs.windows.com/windowsexperience/2021/08/31/windows-11-available-on-october-5/) that Windows 11 will be available October 5th. It will be a staged release, so not everyone will receive the final build on this day.
 
 They also released a short video which shows how good gaming works on Windows 11:
 
 <iframe width="1227" height="690" src="https://www.youtube.com/embed/fKjd_pmQpQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Windows 11 Preview Build 22000.176 
-A new build for the beta channel was released with one improvement: You can now hde and show fixed taskbar icons (like search or widgets) Just right click on the taskbar then click on "Taskbar settings".
+A new build for the beta channel was released with one improvement: You can now hide and show fixed taskbar icons (like search or widgets) Just right click on the taskbar then click on "Taskbar settings".
 
 ![Showcase of that feature](https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/44/2021/09/taskbat-gif-4.gif)
 <small>Source: Microsoft</small>
@@ -31,7 +31,7 @@ Microsoft also changed the algorithm for [SMB compression](https://aka.ms/smbcom
 
 You can read the full changelog on the [Windows Insider Blog](https://blogs.windows.com/windows-insider/2021/09/02/announcing-windows-11-insider-preview-build-22449/).
 
-## Two new Windows 10 release preview builds:
+## Two new Windows 10 release preview builds
 
 For 21h1: [19043.1202](https://blogs.windows.com/windows-insider/2021/08/31/releasing-windows-10-build-19043-1202-21h1-to-release-preview-channel/)
 
