@@ -11,7 +11,7 @@ The last two weeks Windows released 2 new dev and 2 new beta builds. There are a
 ## New dev channel builds
 ### Windows Preview Build 22454.1000
 
-This new build introduces a new IME for korean. 
+This new build introduces a new IME for Korean. 
 
 ![image](https://user-images.githubusercontent.com/58633848/133880730-2d2d49db-6651-43c8-bbdc-d07ba4ec4aab.png)
 
@@ -57,7 +57,7 @@ You can read more about it in the [official blog post](https://blogs.windows.com
 
 ### New journal app update
 
-The [Microsoft Garage app Journal](https://www.microsoft.com/en-us/garage/profiles/journal/) got many new features: https://www.microsoft.com/en-us/garage/blog/2021/09/garage-project-journal-makes-your-ink-more-powerful-with-improved-lasso-multi-select-support-for-different-languages-and-more/
+The [Microsoft Garage app Journal](https://www.microsoft.com/en-us/garage/profiles/journal/) got many new features: [https://www.microsoft.com/en-us/garage/blog/2021/09/garage-project-journal-makes-your-ink-more-powerful-with-improved-lasso-multi-select-support-for-different-languages-and-more/](https://www.microsoft.com/en-us/garage/blog/2021/09/garage-project-journal-makes-your-ink-more-powerful-with-improved-lasso-multi-select-support-for-different-languages-and-more/)
 
 ![image](https://user-images.githubusercontent.com/58633848/133881862-2e6b032e-069c-4372-8369-52a99518722f.png)
 
