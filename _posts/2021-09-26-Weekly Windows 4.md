@@ -45,7 +45,7 @@ You can watch the full event on [YouTube](https://www.youtube.com/watch?v=phzyut
 
 ## Windows 11 Insider Preview Build 22463.1000
 
-This new build from the Dev Channel introduces some changes and improvments:
+This new build from the Dev Channel introduces some changes and improvements:
 
 * You can now copy the file path of a file or a folder with CTRL + Shift + C in File Explorer
 * Display Settings now have rounded corners in the visualization of the displays
@@ -62,7 +62,7 @@ And some other things which you can read in the [blog post](https://blogs.window
 
 This build was only available for the beta channel, but now Microsoft announced this build for the Release Preview Channel for supported computers.
 
-You can also downlaod the [iso image](https://aka.ms/wipISO).
+You can also download the [iso image](https://aka.ms/wipISO).
 
 ## HP announces new Windows 11 devices
 
