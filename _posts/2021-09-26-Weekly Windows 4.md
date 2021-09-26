@@ -63,7 +63,7 @@ This build was only available for the beta channel, but now Microsoft announced 
 
 You can also downlaod the [iso image](https://aka.ms/wipISO).
 
-## Hp announces new Windows 11 devices
+## HP announces new Windows 11 devices
 
 In a [blog post](https://blogs.windows.com/windowsexperience/2021/09/21/hps-new-windows-11-devices-provide-wide-range-of-choices-for-a-hybrid-world/) HP announces new devices for Windows 11. 
 
