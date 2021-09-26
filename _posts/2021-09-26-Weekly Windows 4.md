@@ -41,7 +41,7 @@ A Microsoft event announced some new surface devices:
 
 <small>Source: Microsoft</small>
 
-You can watch the full event on [YouTubehttps://www.youtube.com/watch?v=phzyut897PI).
+You can watch the full event on [YouTube](https://www.youtube.com/watch?v=phzyut897PI).
 
 ## Windows 11 Insider Preview Build 22463.1000
 
