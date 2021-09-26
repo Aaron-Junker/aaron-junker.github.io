@@ -56,3 +56,14 @@ And some other things which you can read in the [blog post](https://blogs.window
 
 * [19043.1263 (21H1)](https://blogs.windows.com/windows-insider/2021/09/23/releasing-windows-10-build-19043-1263-21h1-to-release-preview-channel/)
 * [19044.1263 (21H2)](https://blogs.windows.com/windows-insider/2021/09/23/releasing-windows-10-build-19044-1263-21h2-to-release-preview-channel/)
+
+## Build 22000.194 now available in the release preview channel
+
+This build was only available for the beta channel, but now Microsoft announced this build for the Release Preview Channel for supported computers.
+
+You can also downlaod the [iso image](https://aka.ms/wipISO).
+
+## Hp announces new Windows 11 devices
+
+In a [blog post](https://blogs.windows.com/windowsexperience/2021/09/21/hps-new-windows-11-devices-provide-wide-range-of-choices-for-a-hybrid-world/) HP announces new devices for Windows 11. 
+
