@@ -48,8 +48,9 @@ You can watch the full event on [YouTube](https://www.youtube.com/watch?v=phzyut
 This new build from the Dev Channel introduces some changes and improvments:
 
 * You can now copy the file path of a file or a folder with CTRL + Shift + C in File Explorer
-* Display Settings now have rounded corners in the visualisation of the displays
+* Display Settings now have rounded corners in the visualization of the displays
 * The folder "Windows Ease of Access" got renamed to "Accessibility"
+
 And some other things which you can read in the [blog post](https://blogs.windows.com/windows-insider/2021/09/22/announcing-windows-11-insider-preview-build-22463/).
 
 ## Release preview for 21H1 and 21H2
