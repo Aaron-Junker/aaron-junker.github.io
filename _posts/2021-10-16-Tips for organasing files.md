@@ -19,7 +19,7 @@ Also create subfolders in this library folders, so that it's easier to find what
 
 ![image](https://user-images.githubusercontent.com/58633848/118086304-06901580-b3c4-11eb-822d-61da655f2d22.png)
 
-You can set custome icons for your folders inside of your libraries. This helps keeping the overview.
+You can set costume icons for your folders inside of your libraries. This helps keeping the overview.
 
 You can change the icon by right clicking on the folder -> Properties -> Customize -> Change icon. You can choose between many built-in icons or your own ico files.
 
@@ -44,7 +44,7 @@ Windows 11:
 
 ![Visualisatuion](https://user-images.githubusercontent.com/58633848/137578247-ec1e6fd2-1dc3-42df-8ac4-f467504c0803.png)
 
-Of course you need to deactivate show hidden items.
+Of course, you need to deactivate show hidden items.
 
 # (4.) No files/folders on the desktop
 
