@@ -7,7 +7,7 @@ description: A blog post full with Windows news
 
 ## Introduction
 
-I wasn't able to write a blog post for the last two weeks. So here are the last 3 weeks summarized. Not every news is listed here, just the most important ones.
+I couldn't write a blog post for the last two weeks. So here are the last 3 weeks summarized. Not every news is listed here, just the most important ones.
 
 ## Windows Insider Builds in the Dev channel
 ### Build 22468
@@ -61,6 +61,6 @@ On October 4th Windows 11 got launched.
 
 A [blog post](https://blogs.windows.com/windowsexperience/2021/10/04/windows-11-a-new-era-for-the-pc-begins-today/) was released, which announces this new era for Windows.
 
-## Windows Insider 7th anniversiary
+## Windows Insider 7th anniversary
 
-The Windows Insider program had it's 7th anniversairy. Because of that, Microsoft released two new wallpapers for Windows insiders. You can read more about it on the [Windows Insider Blog](https://insider.windows.com/en-us/articles/thank-you-to-the-windows-insider-community-for-seven-years-together).
+The Windows Insider program had it's 7th anniversary. Because of that, Microsoft released two new wallpapers for Windows insiders. You can read more about it on the [Windows Insider Blog](https://insider.windows.com/en-us/articles/thank-you-to-the-windows-insider-community-for-seven-years-together).
