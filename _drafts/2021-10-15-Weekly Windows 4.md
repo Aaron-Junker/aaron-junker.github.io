@@ -63,4 +63,4 @@ A [blog post](https://blogs.windows.com/windowsexperience/2021/10/04/windows-11-
 
 ## Windows Insider 7th anniversiary
 
-The Windows Insider program had it's 7th anniversairy. Because of that, Microsoft released two new wallpapers for Windows insiders. You can read more about it on the [Windows Insider Blog](https://insider.windows.com/en-us/articles/thank-you-to-the-windows-insider-community-for-seven-years-together)
+The Windows Insider program had it's 7th anniversairy. Because of that, Microsoft released two new wallpapers for Windows insiders. You can read more about it on the [Windows Insider Blog](https://insider.windows.com/en-us/articles/thank-you-to-the-windows-insider-community-for-seven-years-together).
