@@ -7,16 +7,13 @@ category: general
 
 Tired of searching where you put this one file? I will show you 3 tips how you can keep your files organised.
 
-# 1. Use the libraries feature of Windows 10
+# 1. Use the library folders of Windows
 
-![image](https://user-images.githubusercontent.com/58633848/118085917-73ef7680-b3c3-11eb-8be9-01bd8f598cc5.png)
+![Liabraries in Windows 11](https://user-images.githubusercontent.com/58633848/137578152-f3a0434b-e20e-4957-955c-c8d1e30f354f.png)
 
+In Windows there are some built-in library folders like images, documents, videos, etc. Use them! 
 
-In Windows 10 there are some built-in libraries like images, documents, videos, etc. Use them! 
-
-But don't just put all your documents in to the documents folder. You should make subfolders to organize the files.
-
-You can also create your own libraries. Just rightclick on a folder -> Add to library -> New library.
+Create also subfolders in this library folders, so that it's easier to find what you searching for (for example: "Programming Projects", "Official documents", "Family documents", etc.)
 
 # 2. Icons for the folders
 
@@ -30,16 +27,28 @@ You can change the icon by right clicking on the folder -> Properties -> Costumi
 
 Many applications create folders in documents for saving data. It's obvious that you can't just delete them. But you can hide them.
 
+Windows 10:
+
 1. Select all the files and folders you don't need.
 2. Click on "view" in the menubar of the Explorer
 3. Click "Hide selected files"
 4. Select "Make changes only on this folder"
 
-Of course you need to deactivate the view of hidden folders.
+Windows 11:
+
+1. Select the items you want to hide
+2. Right click on the items
+3. Click on properties
+4. Check the "hidded" checkbox
+5. Click ok
+
+![Visualisatuion](https://user-images.githubusercontent.com/58633848/137578247-ec1e6fd2-1dc3-42df-8ac4-f467504c0803.png)
+
+Of course you need to deactivate show hidden items.
 
 # (4.) No files/folders on the desktop
 
-And something little for the end: Don't put your files and folders on to the desktop. That would just create a mess. But shortcuts are okay!
+And something small for the end: I Found out for myself that putting fodlers or files onto the desktop just confuses me. Putting shortcuts there is ok.
 
 
 I hope I could help you organizing your PC. If you have more tips, feel free to contact me on Twitter.
