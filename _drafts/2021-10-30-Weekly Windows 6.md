@@ -11,6 +11,22 @@ Microsoft announced in [a blog post](https://blogs.windows.com/windows-insider/2
 
 You can read more about the WIndows Subsystem for Android in the [official Blogpost](https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/)
 
+## Insider Preview Build 22483
+
+If you have this build installed you get the 7th anniversairy badge in the Feedback Hub:
+
+![Badge](https://user-images.githubusercontent.com/58633848/139526984-6848a7dc-b7db-4a1d-a818-75e683824ee4.png)
+
+<small>Source: Round Checkbox</small>
+
+You can now refresh the recommended apps in the start menu:
+
+![image](https://user-images.githubusercontent.com/58633848/139527020-a46fdac3-62f7-46b4-a3f3-06238758dbdc.png)
+
+<small>Source: Round Checkbox</small>
+
+You can read more about this release in [the official blog post](https://blogs.windows.com/windows-insider/2021/10/20/announcing-windows-11-insider-preview-build-22483/).
+
 ## Insider Preview Build 22489
 
 This build introduces some new features:
@@ -19,7 +35,7 @@ This build introduces some new features:
 
 Microsoft added a new settings page with an overview of your Microsoft 365 subscription.
 
-![New settings page](https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/44/2021/10/msaccount-settings-page.png)
+<img src="https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/44/2021/10/msaccount-settings-page.png" alt="new settings page"></img>
 
 <small>Source: Microsoft</small>
 
@@ -34,4 +50,4 @@ You can read about the other changes in [the offical blogpost](https://blogs.win
 * [19043.1320 (21H1)](https://blogs.windows.com/windows-insider/2021/10/26/releasing-windows-10-build-19043-1320-21h1-to-release-preview-channel/)
 * [19044.1320 (21H2)](https://blogs.windows.com/windows-insider/2021/10/26/releasing-windows-10-build-19044-1320-21h2-to-release-preview-channel/)
 
-
+## PowerToys Release 0.49
