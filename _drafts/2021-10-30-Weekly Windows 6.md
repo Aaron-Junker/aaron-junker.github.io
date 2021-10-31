@@ -51,3 +51,15 @@ You can read about the other changes in [the offical blogpost](https://blogs.win
 * [19044.1320 (21H2)](https://blogs.windows.com/windows-insider/2021/10/26/releasing-windows-10-build-19044-1320-21h2-to-release-preview-channel/)
 
 ## PowerToys Release 0.49
+
+Microsoft released the new [0.49.0](https://github.com/microsoft/PowerToys/releases/tag/v0.49.0) update and the [0.49.1](https://github.com/microsoft/PowerToys/releases/tag/v0.49.1) hotfix for this update.
+
+This release introduces a new UI for PowerRename:
+
+![PowerRename UI](https://user-images.githubusercontent.com/58633848/139572205-9b29bb1c-7aa3-449d-ba84-62f34e1623c5.png)
+
+<small>Source: Round Checkbox</small>
+
+Video conference mute was added to stable and the new Find My mouse utility was added.
+
+You can read more about this release in the [changelog](https://github.com/microsoft/PowerToys/releases/tag/v0.49.0).
