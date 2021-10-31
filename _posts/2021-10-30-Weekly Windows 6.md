@@ -9,7 +9,7 @@ description: A blog post full with Windows news
 
 Microsoft announced in [a blog post](https://blogs.windows.com/windows-insider/2021/10/20/announcing-android-apps-on-windows-11-preview-for-windows-insiders-in-the-beta-channel/) that Windows Subsytsm for Android is comming to beta users in the US.
 
-You can read more about the WIndows Subsystem for Android in the [official Blogpost](https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/)
+You can read more about the Windows Subsystem for Android in the [official Blogpost](https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/).
 
 ## Insider Preview Build 22483
 
@@ -35,7 +35,7 @@ This build introduces some new features:
 
 Microsoft added a new settings page with an overview of your Microsoft 365 subscription.
 
-<img src="https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/44/2021/10/msaccount-settings-page.png" alt="new settings page"></img>
+<img src="https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/44/2021/10/msaccount-settings-page.png" alt="new settings page" />
 
 <small>Source: Microsoft</small>
 
