@@ -5,6 +5,8 @@ category: LWW
 description: A blog post full with Windows news
 ---
 
+Update: This is the last blog post of this series, as it's too much work for nothing
+
 ## Android Apps for Windows 11 beta users
 
 Microsoft announced in [a blog post](https://blogs.windows.com/windows-insider/2021/10/20/announcing-android-apps-on-windows-11-preview-for-windows-insiders-in-the-beta-channel/) that Windows Subsytsm for Android is comming to beta users in the US.
