@@ -1,0 +1,51 @@
+---
+layout: post
+title: System32 Discovery #1 - Bluetooth file transfer tool
+category: System32
+description: A blog post full with Windows news
+---
+
+|||
+|-|-|
+|<b>Application title</b>|Bluetooth file transfer|
+|<b>File name</b>|fsquirt.exe|
+|<b>File name stands for</b>|<b>F</b>ile <b>Squirt</b>|
+|<b>Syntax</b>|`fsquirt.exe [-send/-receive]`|
+|<b>Type</b>|Application|
+|<b>File description</b>||
+
+{{System32-Warning}}
+
+## Overview
+
+The Bluetooth file transfer tool allows you to transfer files over Bluetooth.
+
+The main entry point is a page wher you can select if you want to send or receive files:
+
+![Main entrypoint](https://user-images.githubusercontent.com/58633848/147582763-cc2a65bc-5a14-46f2-9739-da6cf8d76b38.png)
+
+Send files dialog:
+
+![Select device dialog](https://user-images.githubusercontent.com/58633848/147582934-8f1b31a9-1b41-4e40-af05-989214aad4be.png)
+
+![Select file name dialog](https://user-images.githubusercontent.com/58633848/147582958-c0c90deb-54fe-491e-ae53-b9bf9169ea60.png)
+
+Receive files dialog:
+
+![Waiting for a connection](https://user-images.githubusercontent.com/58633848/147583034-5f4b4509-eb18-466a-83de-7801f7e47391.png)
+
+![File gets received](https://user-images.githubusercontent.com/58633848/147583097-447c5390-7af3-4a0f-b1d6-90aa8c61226d.png)
+
+## Arguments
+
+### `-send`
+
+Opens directly the send files screen.
+
+### `-receive?`
+
+Opens directly the receive files screen.
+
+## More information
+
+You can find more information in the [Microsoft Docs](https://docs.microsoft.com/en-us/windows-hardware/drivers/bluetooth/bluetooth-user-interface).
