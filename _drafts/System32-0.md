@@ -1,3 +1,10 @@
+---
+layout: post
+title: System32 Discovery #0 - Introduction
+category: System32
+description: A blog post full with Windows news
+---
+
 {{system32-warning}}
 
 ## Introduction to the System32 Discovery series
