@@ -1,5 +1,10 @@
-![image](https://user-images.githubusercontent.com/58633848/147675926-6f998b59-b9bc-4109-8475-22d28c577402.png)
+---
+layout: post
+title: Schedule Shutdown with PowerAutomate Desktop
+category: general
+---
 
+![image](https://user-images.githubusercontent.com/58633848/147675926-6f998b59-b9bc-4109-8475-22d28c577402.png)
 
 ## Introduction
 
@@ -33,6 +38,29 @@ Select by prompt for Date and Time. This is very important.
 
 Now select save and the dialog should close.
 
-## 3. Diffrence between times
+## 3. Difference between times
 
-Now we need 
+Now we need the difference between the time selected and the current time in seconds.
+
+First add a Get current date and time action.
+
+Just click save and don't change any values.
+
+Second you have to add a Subtract dates action.
+
+In the From date field click on the {X} symbol on the right side. Then select SelectedDate. 
+
+Do the same thing in the Substract date field but ow select CurrentDateTime.
+
+Set Get difference in to Seconds.
+
+![image](https://user-images.githubusercontent.com/58633848/147677099-99c0ed7f-2f23-4d04-9383-af0d34816add.png)
+
+![image](https://user-images.githubusercontent.com/58633848/147677156-39d4262f-90de-48af-ad9e-005e112e4ab2.png)
+
+## 4. Shutdown
+
+Add a if element. Set First operand to the variable ButtonPressed. And the second operand to OK.
+
+![image](https://user-images.githubusercontent.com/58633848/147677370-046c26a4-aaf4-44ba-aa09-40401c9ce0c5.png)
+
