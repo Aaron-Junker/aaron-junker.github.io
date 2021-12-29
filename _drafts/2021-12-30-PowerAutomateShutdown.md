@@ -60,7 +60,24 @@ Set Get difference in to Seconds.
 
 ## 4. Shutdown
 
-Add a if element. Set First operand to the variable ButtonPressed. And the second operand to OK.
+Add a if element. Set First operand to the variable ButtonPressed. And the Second operand to OK.
 
 ![image](https://user-images.githubusercontent.com/58633848/147677370-046c26a4-aaf4-44ba-aa09-40401c9ce0c5.png)
+
+With this condition the flow only continues when you selected Ok in the dialog. If you click cancel or close Shutdown doesn't get executed.
+
+Add a wait statement into the if statement and set TimeDifference as Duration.
+
+![image](https://user-images.githubusercontent.com/58633848/147677702-de4169ac-082e-4291-9cd8-8508089ec5ae.png)
+
+Then add a Shutdown computer action under the wait statement. Optionally you can select Force so that the PC shutdowns also when there are for instance unsaved files.
+
+![image](https://user-images.githubusercontent.com/58633848/147678200-eef39f4a-c947-4b4b-b89f-7e20afcffb9d.png)
+
+
+## 5. Run 
+
+Now we're finished. Save the flow, close the editor window and then click on run.
+
+![image](https://user-images.githubusercontent.com/58633848/147678303-2a54228e-4d48-4a35-8306-2c056d4a2179.png)
 
