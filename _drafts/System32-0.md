@@ -28,4 +28,4 @@ For example you can launch Windows Explorer with the run dialog:
 ![Run dialog with Explorer.exe](https://user-images.githubusercontent.com/58633848/147580468-63f92103-9a75-4592-874e-69ab32d7dc5b.png)
 
 ## Index
-[1](/System32-1)
+[Bluetooth file tranfer dialog](/System32-1)
