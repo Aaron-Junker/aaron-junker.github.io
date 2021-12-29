@@ -7,6 +7,8 @@ description: A blog post full with Windows news
 
 {{system32-warning}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jR00xNtZHXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Introduction to the System32 Discovery series
 
 Welcome to this new blog/video series, where we will cover all the applications/dll's and other stuff inside the system32 folder of Windows.
