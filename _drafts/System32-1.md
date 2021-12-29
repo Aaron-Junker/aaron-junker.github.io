@@ -1,8 +1,8 @@
 ---
 layout: post
-title: System32 Discovery #1 - Bluetooth file transfer tool
+title: System32 Discovery #1 - Bluetooth file transfer dialog
 category: System32
-description: A blog post full with Windows news
+description: Today we will cover the Bluetooth file transfer dialog
 ---
 
 |||
@@ -16,9 +16,11 @@ description: A blog post full with Windows news
 
 {{System32-Warning}}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eO-mupe9oxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Overview
 
-The Bluetooth file transfer tool allows you to transfer files over Bluetooth.
+The Bluetooth file transfer dialog allows you to transfer files over Bluetooth.
 
 The main entry point is a page wher you can select if you want to send or receive files:
 
