@@ -18,3 +18,76 @@ description: Today we will cover the Syszem information dialog
 
 ## Overview
 
+The system information displays information about the hardware, system drivers, the Windows installation and other things of your or a remote computer.
+
+## All categories
+
+* System Summary
+  * Hardware Resources
+    * Conflicts/Sharing
+    * DMA
+    * Forced Hardware
+    * I/O
+    * IRQs
+    * Memory
+  * Components
+    * Multimedia
+      * Audio Codecs
+      * Video Codecs
+    * CD-ROM
+    * Sound Device
+    * Display
+    * Infrared
+    * Input
+      * Keyboard
+      * Pointing Device
+    * Modem
+    * Network
+      * Adapter
+      * Protocol
+      * WinSock
+    * Ports
+      * Serial
+      * Parallel
+    * Storage
+      * Drivers
+      * Disks
+      * SCSI
+      * IDE
+    * Printing
+    * Problem Devices
+    * USB
+  * Software Environment
+    * System Drivers
+    * Environment Variables
+    * Print Jobs
+    * Network Connections
+    * Running Tasks
+    * Loaded Modules
+    * Services
+    * Program Groups
+    * Start-up Programs
+    * OLE Registration
+    * Windows Error Reporting
+    
+## Arguments
+
+### `/?`
+
+Opens the help article to System Information: [https://support.microsoft.com/en-gb/topic/description-of-microsoft-system-information-msinfo32-exe-tool-10d335d8-5834-90b4-8452-42c58e61f9fc](https://support.microsoft.com/en-gb/topic/description-of-microsoft-system-information-msinfo32-exe-tool-10d335d8-5834-90b4-8452-42c58e61f9fc).
+    
+### `/nfo Path`
+
+Saves an nfo file to the specified path. If the path doesn't end with `.nfo` it will be appendend.
+
+### `/report Path`
+
+Saves an txt file to the specified path.
+
+### `/computer ComputerName`
+
+Opens the system information for the specifid computer.
+
+## More Information
+
+[KB300887](https://go.microsoft.com/fwlink/?LinkID=2100680)
