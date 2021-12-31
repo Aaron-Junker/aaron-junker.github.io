@@ -1,0 +1,20 @@
+---
+layout: post
+title: "System32 Discovery #3 - System information"
+category: System32
+description: Today we will cover the Syszem information dialog
+---
+
+|||
+|-|-|
+|<b>Application title</b>|System Information|
+|<b>File name</b>|msinfo32.exe|
+|<b>File name stands for</b>|<b>M</b>icro<b>S</b>oft <b>Info</b>rmation|
+|<b>Syntax</b>|`Msinfo32.exe [/?] [/nfo Path] [/report Path] [/computer ComputerName]`|
+|<b>Type</b>|Application/Console Application|
+|<b>File description</b>|Microsoft Windows Phone Dialler|
+
+{% include system32-warning.md %}
+
+## Overview
+
