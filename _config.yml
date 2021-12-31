@@ -69,3 +69,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+collections:
+  staff_members:
+    output: true
