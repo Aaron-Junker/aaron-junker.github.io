@@ -6,4 +6,6 @@ Projecturltitle: GitHub
 status: Under active development
 ---
 
-Hi
+## Project overview
+
+This is a CMS written in PHP 
