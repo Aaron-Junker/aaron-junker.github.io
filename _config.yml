@@ -71,5 +71,6 @@ exclude:
   - CNAME
 
 collections:
-  staff_members:
+  projects:
     output: true
+    permalink: /:collection/:name
