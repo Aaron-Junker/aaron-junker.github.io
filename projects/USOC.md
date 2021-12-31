@@ -1,8 +1,8 @@
 ---
 layout: projects
 title: "USOC - Useful Simple Open Source CMS"
-projecturl: "https://github.com/aaron-junker/usoc"
-projecturltitle: GitHub
+Projecturl: "https://github.com/aaron-junker/usoc"
+Projecturltitle: GitHub
 status: Under active development
 ---
 
