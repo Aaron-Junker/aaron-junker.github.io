@@ -1,5 +1,5 @@
 This is my blog.
 
-Available under https://aaron-junker.github.io.
+Available under https://blog.aaron-junker.ch
 
 This website is based on jekyll now.
