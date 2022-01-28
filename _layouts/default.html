@@ -19,10 +19,12 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
+          {% unless page.url == "/" or page.url contains "/projects/" or page.url == "/about" %}
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          {% endunless %}
 
           <div class="site-info">
-            {% if page.url == "/" or page.url contains "/projects/" %}
+            {% if page.url == "/" or page.url contains "/projects/" or page.url == "/about" %}
             <h1 class="site-name"><a href="{{ site.baseurl }}/">Aaron Junker</a></h1>
             <p class="site-description">Website of Aaron Junker</p>
             {% else %}
@@ -32,7 +34,11 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
+            {% if page.url == "/" or page.url contains "/projects/" or page.url == "/about" %}
+            <a href="{{ site.baseurl }}/blog">Blog</a>
+            {% else %}
+            <a href="{{ site.baseurl }}/">Homepage</a>
+            {% endif %}
             <a href="{{ site.baseurl }}/about">About me</a>
             <a href="{{ site.baseurl }}/projects">My projects</a>
           </nav>
