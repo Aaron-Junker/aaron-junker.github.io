@@ -3,7 +3,6 @@ layout: page
 title: About me
 permalink: /about/
 ---
-## About me
 
 Hello I'm Aaron.
 
