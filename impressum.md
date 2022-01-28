@@ -1,6 +1,6 @@
 <h2>Kontaktadresse</h2>
-<p>Aaron Junker Technologies<br>
-Steigstrasse<br>
+<p>Aaron Junker<br>
+Steigstrasse 62<br>
 8200 Schaffhausen<br>
 Switzerland<br>
 aaron.junker@outlook.com</p>
