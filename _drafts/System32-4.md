@@ -15,7 +15,11 @@ You may know the System32 folder as the folder where all the system files are lo
 
 You surely know shortcuts in Windows. These can also be called soft links.  If you remove or rename a softlink file it will not have any affect on the other file. It's just a pointer to where the file is located.
 
+![softlink](https://user-images.githubusercontent.com/58633848/151668028-042092ed-dc14-4084-b0a4-a01e87835600.png)
+
 A hard link for comparsion is two times the same file, just at different location. If you rename the file on one end it will also get renamed on the other end.
+
+![hardlink](https://user-images.githubusercontent.com/58633848/151668027-75e0499f-b091-4a3f-892d-7fbb46624957.png)
 
 ## Why?
 
