@@ -1,0 +1,68 @@
+---
+layout: post
+title: "System32 Discovery #4 - The secret behind the System32 folder"
+category: System32
+description: Today we will cover the secret behind the System32 folder
+---
+
+{% include system32-warning.md %}
+
+## Introduction
+
+You may know the System32 folder as the folder where all the system files are located. But that's not necessarily true. All these applications, dll files and other stuff are so called hard links.
+
+## What is a hard link?
+
+You surely know shortcuts in Windows. These can also be called soft links.  If you remove or rename a softlink file it will not have any affect on the other file. It's just a pointer to where the file is located.
+
+A hard link for comparsion is two times the same file, just at different location. If you rename the file on one end it will also get renamed on the other end.
+
+## Why?
+
+So, why are these files all hardlinks?
+
+Because you can execute all the commands from this folder directly. You don't have to go first into the folder where they are really located and then execute `explorer` `logonui`, etc.
+
+With all these files in one folder it's easier to index them all.
+
+## Where are they really?
+
+They are mostly in package folders in the `%windir%/WinSxS` folder.
+
+The package name has the following pattern:
+
+`[target platform]_([platform])_[name]_[id]_[version]_[language]_[hash]`
+
+### [target platform]
+The targeted platform: x86, wow64, msil or amd64
+
+### [platform]
+Optional indicator of the platform. 
+For example:
+* system
+* Microsoft-Windows
+* bth
+
+### [name]
+The package name. If the name is too long `...` will replace a part of the name.
+
+e.g.: 
+* basicrender.inf.resources
+* s..store-adm.resources
+* syncres.resources
+
+### [id]
+
+Unknown
+
+### [version]
+
+The version of the system
+
+### [language]
+
+The language of a package
+
+### [hash]
+
+Unknown
