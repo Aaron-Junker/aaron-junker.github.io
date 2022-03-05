@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Send messages to the Office 365 Company Portal"
+title: "How to send messages to the Office 365 Company portal"
 description: This blog post shows you how to send messages to the Microsoft Company portal as a Office 365 admin.
 ---
 
