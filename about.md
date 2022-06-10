@@ -32,4 +32,4 @@ I also own a ECDL/ICDL base certificate. (https://member.sophiatesting.com/data/
 
 I'm generally very interested in computers in all ways. (More software then hardware.)
 
-If you want to contact mek, feel free to write to <a href="mailto:aaron.junker@outlook.com">aaron.junker@outlook.com</a> or write a direct mail on twitter <a href="https://twitter.com/theredcuber">@theredcuber</a>.
+If you want to contact me, feel free to write to <a href="mailto:aaron.junker@outlook.com">aaron.junker@outlook.com</a> or write a direct message on twitter <a href="https://twitter.com/theredcuber">@theredcuber</a>.
