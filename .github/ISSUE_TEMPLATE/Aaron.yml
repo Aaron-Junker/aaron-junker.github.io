@@ -1,9 +1,53 @@
-name: "Aaron"
-description: "dsaa"
+name: "dadas"
+description: "adasdasd"
 body:
-- type: checkboxes
+- type: input
+  id: dasd
   attributes:
-    label: "k"
+    label: "dasd"
+  validations:
+    required: false
+- type: markdown
+  attributes:
+    value: |
+      dsads
+      da
+      
+      
+      da
+      
+      
+      dasds
+      
+      adsads
+      
+      
+- type: textarea
+  attributes:
+    label: "dasdsa"
+    description: "asdd"
+    placeholder: |
+      dasd
+      da
+      sd
+      asd
+  validations:
+    required: false
+- type: dropdown
+  id: dasds
+  attributes:
+    label: "dsads"
+    multiple: true
     options: 
-      - label: "das"
+      - Option 1
+      - Option 2
+  validations:
+    required: true
+- type: checkboxes
+  id: asd
+  attributes:
+    label: "dasd"
+    description: "dasd"
+    options: 
+      - label: "dasdsa"
         required: false
