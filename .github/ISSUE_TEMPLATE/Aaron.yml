@@ -2,9 +2,7 @@ name: "Aaron"
 description: "a"
 body:
 - type: checkboxes
-  id: d
   attributes:
-    label: ""
     options: 
-      - label: "TEst"
-        required: true
+      - label: "das"
+        required: false
