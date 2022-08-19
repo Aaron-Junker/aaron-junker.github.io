@@ -3,6 +3,7 @@ description: "a"
 body:
 - type: checkboxes
   attributes:
+    label: "k"
     options: 
       - label: "das"
         required: false
