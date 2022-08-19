@@ -46,8 +46,8 @@ body:
 - type: checkboxes
   id: asd
   attributes:
-    label: "dasd"
+    label: "davbsd"
     description: "dasd"
     options: 
-      - label: "dasdsa"
+      - label: "dasdr43rtsa"
         required: false
