@@ -9,4 +9,6 @@ And this here is my website. Here you can read [my blog](/blog), more informatio
 
 <img style="border-radius: 5px;" src="/images/logo_large.png" />
 
-Aaron Junker Technologies is my label for all my projects
+Aaron Junker Technologies is my label for all my projects. 
+
+<a rel="me" href="https://phpc.social/@AaronJunker">Follow me on Mastodon</a>. 
