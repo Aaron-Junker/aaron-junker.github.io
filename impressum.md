@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /impressum/
+---
+
 <h2>Kontaktadresse</h2>
 <p>Aaron Junker<br>
 Steigstrasse 62<br>
