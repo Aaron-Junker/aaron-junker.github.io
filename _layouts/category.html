@@ -3,27 +3,23 @@ layout: default
 ---
 <div class="categories">
     <h1 class="h1 category-title">
-      Category:&nbsp;{{ page.category-name }}
+      Category:&nbsp;{{ page.category-full-name }}
     </h1>
+    <div class="category-description">
+      {{ content }}
+    </div>
     <div class="posts">
       {% for post in site.categories[page.category-name] %}
-        <div class="post py3">
-          <p class="post-meta">
-        {% if site.date_format %}
-            {{ post.date | date: site.date_format }}
-        {% else %}
-            {{ post.date | date: "%b %-d, %Y" }}
-        {% endif %}
-        </p>
-          <a href="{{ post.url | relative_url }}" class="post-link">
-            <h3 class="h1 post-title">
-              {{ post.title }}
-            </h3>
-          </a>
-          <span class="post-summary">
-              {{ post.excerpt }}
-          </span>
-        </div>
-        {% endfor %}
+        <article class="post">
+
+          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+          
+          <div class="entry">
+            {% if post.description %}<p>{{ post.description }}</p>{% else %}{{ post.excerpt }}{% endif %}
+          </div>
+    
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        </article>
+      {% endfor %}
     </div>
 </div>

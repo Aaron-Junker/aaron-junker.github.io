@@ -1,9 +1,7 @@
 ---
-
 layout: post  
 title: The new version of USOC is so cool for me and here is why.  
 category: general
-
 ---
 
 This weekend I released the new version of my CMS USOC Pb2.4Bfx0 (Changelog: [https://github.com/Case-Games/USOC/releases/tag/Pb2.4Bfx0](https://github.com/Case-Games/USOC/releases/tag/Pb2.4Bfx0)) (Download the hotfix version: [https://github.com/Case-Games/USOC/releases/tag/Pb2.4Bfx1](https://github.com/Case-Games/USOC/releases/tag/Pb2.4Bfx1)
