@@ -4,7 +4,7 @@ title: "How to send messages to the Office 365 Company portal"
 description: This blog post shows you how to send messages to the Microsoft Company portal as a Office 365 admin.
 ---
 
-This blog post shows you how to the Office 365 company portal. 
+This blog post shows you how to send messages to your Intune devices in Office 365 company portal.
 
 <img src="https://user-images.githubusercontent.com/58633848/156612073-18141321-6199-41ef-ab65-3ff7787fc724.jpeg" width="500px" />
 
@@ -42,6 +42,6 @@ After a few minutes a push notifications will appear on the devices connected to
 
 ![image](https://user-images.githubusercontent.com/58633848/156611825-2c4d19ed-5a65-4963-9d7c-a30e1af39056.png) 
 
-### More informations
+### More information
 
 [On Microsoft Docs](https://docs.microsoft.com/en-us/mem/intune/remote-actions/custom-notifications).

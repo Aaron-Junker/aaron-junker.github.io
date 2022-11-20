@@ -4,11 +4,12 @@ title: Last week at Windows No. 4 (CW 38)
 category: LWW
 description: A new dev build and new surface devices
 ---
-
 ## Introduction
+
 The last two weeks Windows released a new dev channel build and two new release preview build. But let's start with the new surface devices.
 
 ## Microsoft Event 22. September 2021
+
 A Microsoft event announced some new surface devices:
 
 * [Ocean plastic mouse](https://www.microsoft.com/en-ww/accessories/sustainability/ocean-plastic-mouse):
@@ -67,4 +68,3 @@ You can also download the [iso image](https://aka.ms/wipISO).
 ## HP announces new Windows 11 devices
 
 In a [blog post](https://blogs.windows.com/windowsexperience/2021/09/21/hps-new-windows-11-devices-provide-wide-range-of-choices-for-a-hybrid-world/) HP announces new devices for Windows 11. 
-

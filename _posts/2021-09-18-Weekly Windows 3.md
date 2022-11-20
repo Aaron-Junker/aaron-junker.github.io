@@ -4,11 +4,12 @@ title: Last week at Windows No. 3 (CW 36 & CW 37)
 category: LWW
 description: Many new builds and the new photo app got released.
 ---
-
 ## Introduction
+
 The last two weeks Windows released 2 new dev and 2 new beta builds. There are also some other news, so let's go!
 
 ## New dev channel builds
+
 ### Windows Preview Build 22454.1000
 
 This new build introduces a new IME for Korean. 
@@ -36,15 +37,19 @@ You can read about all the bug fixes and other changes in the [official blog pos
 This build didn't introduce a new big feature. You can read about all the bug fixes and changes in the [official blog post](https://blogs.windows.com/windows-insider/2021/09/15/announcing-windows-11-insider-preview-build-22458/).
 
 ## New beta channel builds
+
 ### Windows Preview Build 22000.184
+
 This build didn't introduce a new big feature. You can read about all the bug fixes and changes in the [official blog post](https://blogs.windows.com/windows-insider/2021/09/09/announcing-windows-11-insider-preview-build-22000-184/).
 
 ### Windows Preview Build 22000.194
+
 Now the new designed apps are also rolled out to the beta channel.
 
 You can read about all the bug fixes and changes in the [official blog post](https://blogs.windows.com/windows-insider/2021/09/16/announcing-windows-11-insider-preview-build-22000-194/).
 
 ## App updates
+
 ### New photo app launched
 
 The new photo app got launched.
@@ -70,6 +75,7 @@ Now available in the store are (only Windows 11):
 * [Microsoft PowerToys](https://aka.ms/getpowertoys)
 
 ## New ad campaign for Windows 11
+
 A new ad for Windows 11 was launched:
 
 <iframe width="1227" height="690" src="https://www.youtube.com/embed/8FKtTg5VRSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

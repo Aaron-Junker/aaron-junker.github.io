@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for organizing your files on your Windows PC
-description: I will show here 3 tips how you kann keep your files organized.
+description: I will show here 3 tips how you can keep your files organized on your Windows PC.
 category: general
 ---
 
@@ -9,9 +9,9 @@ Tired of searching where you put this one file? I will show you 3 tips how you c
 
 # 1. Use the library folders of Windows
 
-![Liabraries in Windows 11](https://user-images.githubusercontent.com/58633848/137578152-f3a0434b-e20e-4957-955c-c8d1e30f354f.png)
+![Libraries in Windows 11](https://user-images.githubusercontent.com/58633848/137578152-f3a0434b-e20e-4957-955c-c8d1e30f354f.png)
 
-In Windows there are some built-in library folders like images, documents, videos, etc. Use them! 
+In Windows there are some built-in library folders like images, documents, videos, etc. Use them!
 
 Also create subfolders in this library folders, so that it's easier to find what you are searching for (for example: "Programming Projects", "Official documents", "Family documents", etc.)
 
@@ -42,13 +42,12 @@ Windows 11:
 4. Check the "hidden" checkbox
 5. Click ok
 
-![Visualisatuion](https://user-images.githubusercontent.com/58633848/137578247-ec1e6fd2-1dc3-42df-8ac4-f467504c0803.png)
+![Visualization](https://user-images.githubusercontent.com/58633848/137578247-ec1e6fd2-1dc3-42df-8ac4-f467504c0803.png)
 
 Of course, you need to deactivate show hidden items.
 
 # (4.) No files/folders on the desktop
 
 And something small for the end: I Found out for myself that putting folders or files onto the desktop just confuses me. Putting shortcuts there is ok.
-
 
 I hope I could help you organizing your PC. If you have more tips, feel free to contact me on Twitter or write a comment.
