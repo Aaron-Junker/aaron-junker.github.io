@@ -6,7 +6,7 @@ category: LWW
 
 ## Introduction
 
-Welcome to this new blog series where we look every weekend at what happend in the world of Windows during the last week. 
+Welcome to this new blog series where we look every weekend at what happened in the world of Windows during the last week.
 
 Today we have three topics. So let's go:
 
@@ -14,7 +14,7 @@ Today we have three topics. So let's go:
 
 Microsoft announced updated system requirements for Windows 11. You can read more about that in [their blog post](https://blogs.windows.com/windows-insider/2021/08/27/update-on-windows-11-minimum-system-requirements-and-the-pc-health-check-app/).
 
-In the same blog post they announced an update for the PC Health Check App. The update adds now better information why your PC isn't supported. You can download the app [here](https://www.microsoft.com/en-us/software-download/windowsinsiderpreviewpchealth).
+In the same blog post they announced an update for the PC Health Check App. The update adds now better information why your PC isn't supported. You can download the app [here](https://www.microsoft.com/software-download/windowsinsiderpreviewpchealth).
 
 ![Image of the PC health check app](https://46c4ts1tskv22sdav81j9c69-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/44/2021/08/pc-health-check-update.png)
 
@@ -47,9 +47,9 @@ With this widget you can open see recent activity and open recent documents.
 
 If you want to know more about this release (like bugfixes, etc.) you can read the [official blog article](https://blogs.windows.com/windows-insider/2021/08/27/announcing-windows-11-insider-preview-build-22000-168/).
 
-## PowerToys settings are getting a new fresh desing.
+## PowerToys settings are getting a new fresh design
 
-The Microsoft PowerToys Settings are getting a new desing. The UX desinger Niels9001 created a deing in the style of the Windows 11 settings:
+The Microsoft PowerToys Settings are getting a new design. The UX designer Niels9001 created a design in the style of the Windows 11 settings:
 
 ![image](https://user-images.githubusercontent.com/58633848/131213666-eeb1071b-06fc-43e1-ba8a-d9d29a450108.png)
 
@@ -58,6 +58,5 @@ The Microsoft PowerToys Settings are getting a new desing. The UX desinger Niels
 You can read all about it in the [Pull Request](https://github.com/microsoft/PowerToys/pull/12470).
 
 It will ship with the next major release of PowerToys.
-
 
 <i>That's all. Did I miss something? Write it into the comments.</i>

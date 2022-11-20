@@ -50,7 +50,7 @@ Second you have to add a `Subtract dates` action.
 
 In the `From date` field click on the {X} symbol on the right side. Then select `SelectedDate`. 
 
-Do the same thing in the `Substract date` field but ow select `CurrentDateTime`.
+Do the same thing in the `Subtract date` field but ow select `CurrentDateTime`.
 
 Set `Get difference in` to `Seconds`.
 
@@ -74,10 +74,8 @@ Then add a `Shutdown computer` action under the wait statement. Optionally you c
 
 ![image](https://user-images.githubusercontent.com/58633848/147678200-eef39f4a-c947-4b4b-b89f-7e20afcffb9d.png)
 
-
 ## 5. Run 
 
 Now we're finished. Save the flow, close the editor window and then click on run.
 
 ![image](https://user-images.githubusercontent.com/58633848/147678303-2a54228e-4d48-4a35-8306-2c056d4a2179.png)
-

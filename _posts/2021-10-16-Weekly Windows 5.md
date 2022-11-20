@@ -4,13 +4,14 @@ title: Last week at Windows No. 5 (CW 39 & 40 & 41)
 category: LWW
 description: A blog post full with Windows news
 ---
-
 ## Introduction
 
 I couldn't write a blog post for the last two weeks. So here are the last 3 weeks summarized. Not every news is listed here, just the most important ones.
 
 ## Windows Insider Builds in the Dev channel
+
 ### Build 22468
+
 This build adds an option if you want to see the last search results when you hover the search icon in the taskbar.
 
 ![Search icon in the taskbar](https://user-images.githubusercontent.com/58633848/137476500-16527433-7d0d-4a53-bf97-d7432ec6419c.png)
@@ -32,12 +33,15 @@ You can read about the bug fixes in the [blog post](https://blogs.windows.com/wi
 This build introduces some nice new features:
 
 #### New emoji style
+
 The emoji chooser now uses the new emojis which were [previously announced](https://medium.com/microsoft-design/emotionality-at-work-398182387adc) by the Microsoft Design Team.
 
 ![Emoji Picker](https://user-images.githubusercontent.com/58633848/137577245-f7bf8686-55b9-4017-a875-0c8a5b81df4b.png)
 
 <small>Source: Round Checkbox</small>
+
 #### Scrolling on the volume icon
+
 Scrolling on the volume icon inn the taskbar now increases and decreases the volume.
 
 #### New "add new language" dialog
