@@ -12,4 +12,4 @@ And this here is my website. Here you can read [my blog](/blog), more informatio
 
 <img style="border-radius: 5px;" src="/images/logo_large.png" />
 
-Aaron Junker Technologies is my label for all my projects.
+Aaron Junker Technologies is my label for all my projects and the company publishing my projects. You can find the contact information in the [impressum](/impressum).
