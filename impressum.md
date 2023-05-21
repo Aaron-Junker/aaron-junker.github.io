@@ -3,12 +3,19 @@ layout: page
 permalink: /impressum/
 ---
 
-<h2>Kontaktadresse</h2>
+<h2>Kontaktadresse / Contact adress</h2>
 <p>Aaron Junker<br>
 Steigstrasse 62<br>
 8200 Schaffhausen<br>
 Switzerland<br>
 aaron.junker@outlook.com</p>
+
+<h2>Geschäftsadresse / Business adress</h2>
+<p>Aaron Junker Technologies<br>
+Steigstrasse 62<br>
+8200 Schaffhausen<br>
+Switzerland<br>
+aaron.junker@technologies.aaron-junker.ch</p>
 
 <h2>Vertretungsberechtigte Personen</h2>
 <p>Aaron Junker</p>
