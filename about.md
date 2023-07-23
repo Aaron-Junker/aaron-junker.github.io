@@ -33,18 +33,16 @@ If you want to contact me, shoot me an email at <a href="mailto:aaron.junker@out
 ### Markup languages I know
 
 * HTML
-* A bit of XAML
+* XAML (WPF and WinUi)
 
 ### Programming Languages I've programmed with in the past
 
 * Java: Created awesome Minecraft plugins!
 
-### Certificates
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c07a844-54ea-4a59-91e0-67f4a84ff416" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### Certifications
 
 * ECDL/ICDL base [certificate](https://member.sophiatesting.com/data/pdffiles/d2581f6771d13239b99fa478930cff9d.pdf?cache=1610264602499).
-* [Microsoft Certified: Identity and Access Administrator Associate](https://www.credly.com/earner/earned/share/8c07a844-54ea-4a59-91e0-67f4a84ff416).
+* [Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/AaronJunker/F9ED87BF078134A0).
 
 ### Repositories I triage
 
