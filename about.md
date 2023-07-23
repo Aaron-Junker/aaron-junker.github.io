@@ -8,9 +8,9 @@ permalink: /about/
 
 Hello I'm Aaron.
 
-I'm a student from Switzerland.
+I'm a student from Switzerland. Also I'm a [Windows Insider MVP](https://www.microsoft.com/en-us/windowsinsider/mvps/aaron-junke).
 
-In my free time I like to program and to try out new things on computers. I also help triaging different [repositories of Microsoft](https://github.com/microsoft/). There I label issues and search for duplicates.
+In my free time I like to program and to try out new things on computers. I contribute to various [open source repositories of Microsoft](https://github.com/microsoft/) and help them triaging issues. 
 
 I'm generally enamored with all things computers. (More software than hardware.)
 
