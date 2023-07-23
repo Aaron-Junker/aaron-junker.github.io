@@ -4,7 +4,7 @@ layout: default
 
 <img style="border-radius: 5px;" alt="Picture of myself sitting in front of a PC" src="/images/profile_large.jpg" />
 
-<a href="https://insider.windows.com/mvps"><img alt="Windows Insider MVP logo" src="https://user-images.githubusercontent.com/58633848/215269154-26657d61-4bc8-4d14-be9d-3299f63afdbe.png" width="15%" /></a>
+<a href="[https://insider.windows.com/mvps](https://www.microsoft.com/en-us/windowsinsider/mvps/aaron-junke)"><img alt="Windows Insider MVP logo" src="https://user-images.githubusercontent.com/58633848/215269154-26657d61-4bc8-4d14-be9d-3299f63afdbe.png" width="15%" /></a>
 
 ## Hi I'm Aaron
 
