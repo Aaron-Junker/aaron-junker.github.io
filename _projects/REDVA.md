@@ -1,8 +1,8 @@
 ---
 layout: projects
 title: "RED Voice Assistant"
-Projecturl: "[https://github.com/Aaron-Junker/minecraft-simpler-textures](https://apps.microsoft.com/detail/9P410H380QZF?gl=CH&hl=fr-ch)"
-Projecturltitle: Visit on GitHub
+Projecturl: "[https://apps.microsoft.com/detail/9P410H380QZF](https://apps.microsoft.com/detail/9P410H380QZF)"
+Projecturltitle: Open in Microsoft Store
 status: Active
 description: A voice assistant for the Microsoft Cloud
 ---
