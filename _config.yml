@@ -38,7 +38,6 @@ url: https://blog.aaron-junker.ch
 baseurl: ""
 
 # Disqus flag
-disqus: roundcheckbox
 
 #
 # !! You don't need to change any of the configuration flags below !!
