@@ -304,6 +304,30 @@ footer {
   max-width: 100%;
 }
 
+#dimmer {
+  display: block;
+  position: fixed;
+  margin: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(29, 29, 29, 0);
+  pointer-events: none;
+  transition: background-color 0.5s linear;
+  animation: start 2s 1;
+  z-index: 99;
+}
+
+@keyframes start {
+  0% {
+    background-color:rgba(29, 29, 29, 0.389);
+  }
+  100% {
+    background-color: rgba(29, 29, 29, 0);
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
