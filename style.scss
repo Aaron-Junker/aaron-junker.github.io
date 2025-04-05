@@ -291,8 +291,10 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
+    position: relative;
+    display: block;
     font-size: 15px;
+    text-align: center;
   }
 }
 
