@@ -5,7 +5,7 @@ layout: default
   <p>In this blog I'm writing about my continuous story as a developer and many things related to Microsoft.</p>
   <p>New articles are getting published when I find time to write them.</p>
 </div>
-<p>Sort by category</p>
+<p style="font-weight: bold;">Sort by category</p>
 <ul>
   <li><a href="/category/general">General</a></li>
   <li><a href="/category/php">PHP</a></li>
@@ -13,6 +13,30 @@ layout: default
   <li><a href="/category/System32">System32 Discovery Series</a></li>
   <li><a href="/category/LWW">Last week at Windows</a></li>
 </ul>
+
+<style>
+  article {
+    position: relative;
+    padding: 0% 2%;
+    border-radius: 5px;
+    margin-top: 0;
+  }
+  article h1 {
+    margin-top: 0;
+    padding-top: 1em;
+  }
+  article:hover {
+    z-index: 100;
+    background-color: white;
+  }
+  body:has(article:hover) #dimmer {
+    display: block;
+    background-color:rgba(29, 29, 29, 0.389);
+    animation: start 0s 0;
+    z-index: 99;
+  } 
+</style>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -23,7 +47,7 @@ layout: default
         {% if post.description %}<p>{{ post.description }}</p>{% else %}{{ post.excerpt }}{% endif %}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">&gt;&gt;&gt;Read More</a>
     </article>
   {% endfor %}
 </div>

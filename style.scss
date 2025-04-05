@@ -171,11 +171,15 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 20px 5px;
   border-bottom: 1px solid $lightGray;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 
   @include mobile {
     text-align: center;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
   }
 }
 
@@ -262,7 +266,8 @@ nav {
 //
 
 .posts>.post {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
+  
   border-bottom: 1px solid $lightGray;
 }
 
@@ -302,8 +307,35 @@ footer {
   padding: 20px 0;
   text-align: center;
   max-width: 100%;
+  a {
+    position: relative;
+  }
+  a:hover {
+    z-index: 100;
+  }
 }
 
+body:has(footer a:hover) #dimmer {
+  display: block;
+  background-color:rgba(29, 29, 29, 0.389);
+  animation: start 0s 0;
+  z-index: 99;
+} 
+header:hover {
+  position: relative;
+  z-index: 100;
+  background-color: white;
+}
+header:hover * {
+  position: relative;
+  z-index: 100;
+}
+body:has(header:hover) #dimmer {
+  display: block;
+  background-color:rgba(29, 29, 29, 0.389);
+  animation: start 0s 0;
+  z-index: 99;
+} 
 #dimmer {
   display: block;
   position: fixed;
@@ -315,7 +347,7 @@ footer {
   background-color: rgba(29, 29, 29, 0);
   pointer-events: none;
   transition: background-color 0.5s linear;
-  animation: start 2s 1;
+  animation: start 0.5s 1;
   z-index: 99;
 }
 
