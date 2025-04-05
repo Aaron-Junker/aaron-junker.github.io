@@ -12,23 +12,19 @@ In my free time I like to program. I also help out on the Microsoft [PowerToys](
 
 In this blog I'm writing about things I want to. Most of the time about programming or other IT things.
 
-Programming languages I can programm:
-* PHP (very good)
+Programming languages I can program in:
+* C#
+* PHP
 * Javascript
 * Python
-* a bit C#
-* Minecraft Commands
 
 Markup languages:
 * HTML
-* A bit XAML
+* XAML
 
 Programming Languages I could program in the past:
+* Minecraft Commands
 * Minecraft plugins with Java
-
-My biggest Project currently is my CMS [USOC](https://github.com/case-games/USOC).
-
-I also own a ECDL/ICDL base certificate. (https://member.sophiatesting.com/data/pdffiles/d2581f6771d13239b99fa478930cff9d.pdf?cache=1610264602499)
 
 I'm generally very interested in computers in all ways. (More software then hardware.)
 

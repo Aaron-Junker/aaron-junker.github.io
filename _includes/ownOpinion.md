@@ -1,1 +1,1 @@
-First of all, I want to say: That's my personal point of view. If you don't agree or you think I'm writing nonsense please let me know (in a polite way) in the comments or on [Twitter](https://twitter.com/@theredcuber). I'm always ready to lead a discussion.
+First of all, I want to say: That's my personal point of view. If you don't agree or you think I'm writing nonsense please let me know (in a polite way) on any of my socials (linked in the footer). I'm always ready to have a constructive discussion.

@@ -20,15 +20,15 @@
       <div class="container">
         <header class="masthead clearfix">
           {% unless page.url == "/" or page.url contains "/projects/" or page.url == "/about/" %}
-          <a href="{{ site.baseurl }}/blog" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="{{ site.baseurl }}/blog" class="site-avatar"><img id="logo" alt="Round Checkbox logo" src="/images/round checkbox logo.png" /></a>
           {% else %}
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="/images/profile.jpg" /></a>
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img id="logo" alt="Drawn picture of myself" src="/images/profile.jpg" /></a>
           {% endunless %}
 
           <div class="site-info">
             {% if page.url == "/" or page.url contains "/projects/" or page.url == "/about/" %}
             <h1 class="site-name"><a href="{{ site.baseurl }}/">Aaron Junker</a></h1>
-            <p class="site-description">Website of Aaron Junker</p>
+            <p class="site-description">Website of Aaron Junker-Wildi</p>
             {% else %}
             <h1 class="site-name"><a href="{{ site.baseurl }}/blog">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
@@ -56,7 +56,7 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
-          <br><a href="{{ site.baseurl }}/impressum">Impressum</a>⚫<a href="{{ site.baseurl }}/privacy">Privacy notice</a>
+          <br><a style="margin-right: 5%;" href="{{ site.baseurl }}/impressum">Impressum</a><a href="{{ site.baseurl }}/privacy">Privacy notice</a>
         </footer>
       </div>
     </div>

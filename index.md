@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
+<h1 id ="homepageHeader">Hi I'm Aaron</h1>
+<content id="homepageContent">
+<img alt="Drawn picture of myself" style="border-radius: 5px;" src="/images/profile_large.jpg" />
 
-<img style="border-radius: 5px;" src="/images/profile_large.jpg" />
-## Hi I'm Aaron
+<p>And this here is my website. Here you can read <a href="/blog">my blog</a>, more information <a href="/about">about me</a> and about <a href="/projects">my projects</a>.</p>
 
-And this here is my website. Here you can read [my blog](/blog), more information [about me](/about) and about [my projects](/projects) (Under development).
+<h3>Aaron Junker Technologies</h3>
 
-<img style="border-radius: 5px;" src="/images/logo_large.png" />
+<img width="80%" src="/images/logo_large.png" />
 
-Aaron Junker Technologies is my label for all my projects
+<p>Aaron Junker Technologies is my label for all my projects.</p>
+
+</content>
