@@ -336,6 +336,7 @@ body:has(header:hover) #dimmer {
   display: block;
   background-color:rgba(29, 29, 29, 0.389);
   animation: start 0s 0;
+  transition: background-color 1s 0.5s;
   z-index: 99;
 } 
 #dimmer {
