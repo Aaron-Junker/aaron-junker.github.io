@@ -16,3 +16,19 @@
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
+    <script>
+        let params = new URLSearchParams(document.location.search);
+        if (params.has("namechange")) {
+            sessionStorage.setItem("namechange", params.get("namechange"));
+        }
+        const name = sessionStorage.getItem("namechange");
+        if (name !== null) {
+            document.addEventListener("DOMContentLoaded", () => {
+                const mainElement = document.getElementById("main");
+                const header = document.getElementsByTagName("header")[0];
+                mainElement.innerHTML = mainElement.innerHTML.replaceAll("Aaron", name);
+                header.innerHTML = header.innerHTML.replaceAll("Aaron", name);
+            });
+        }
+
+    </script>
