@@ -26,8 +26,11 @@
             document.addEventListener("DOMContentLoaded", () => {
                 const mainElement = document.getElementById("main");
                 const header = document.getElementsByTagName("header")[0];
+                const title = document.getElementsByTagName("title")[0];
                 mainElement.innerHTML = mainElement.innerHTML.replaceAll("Aaron", name);
                 header.innerHTML = header.innerHTML.replaceAll("Aaron", name);
+                title.innerHTML = title.innerHTML.replaceAll("Aaron", name);
+                document.title = title.innerHTML;
             });
         }
 
