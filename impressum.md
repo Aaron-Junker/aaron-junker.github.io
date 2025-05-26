@@ -4,21 +4,20 @@ permalink: /impressum/
 ---
 
 <h2>Kontaktadresse / Contact adress</h2>
-<p>Aaron Junker<br>
+<p>Noraa Junker<br>
 Steigstrasse 62<br>
 8200 Schaffhausen<br>
 Switzerland<br>
-aaron.junker@outlook.com</p>
+noraa.junker@outlook.com</p>
 
 <h2>Geschäftsadresse / Business adress</h2>
 <p>Aaron Junker Technologies<br>
 Steigstrasse 62<br>
 8200 Schaffhausen<br>
-Switzerland<br>
-aaron.junker@technologies.aaron-junker.ch</p>
+Switzerland</p>
 
 <h2>Vertretungsberechtigte Personen</h2>
-<p>Aaron Junker</p>
+<p>Noraa Junker</p>
 
 <h2>Haftungsausschluss</h2>
 <p>Der Autor übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen. Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen. Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.</p>

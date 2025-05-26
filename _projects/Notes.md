@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: "Notes"
-Projecturl: "https://notes.aaron-junker.ch"
+Projecturl: "https://notes.noraajunker.ch"
 Projecturltitle: Website
 status: Discontinued
 description: A collection of Notes taken by me to a variety of topics.

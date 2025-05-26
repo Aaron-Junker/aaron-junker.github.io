@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: "USOC - Useful Simple Open Source CMS"
-Projecturl: "https://github.com/aaron-junker/usoc"
+Projecturl: "https://github.com/noraa-junker/usoc"
 Projecturltitle: Visit on GitHub
 status: Currently discontinued
 description: A small CMS written in PHP

@@ -1,11 +1,11 @@
 name: Round checkbox
 
-description: Developer blog about me (Aaron Junker-Wildi)
+description: Developer blog about me (Noraa Junker-Wildi)
 
 
 footer-links:
-  email: aaron.junker@outlook.com 
-  github: aaron-junker
+  email: noraa.junker@outlook.com 
+  github: noraa-junker
   twitter: theredcuber
   youtube: channel/UC4PrjxDrZ_PCqhnzBfjQxdQ
   linkedin: aaron-junker
@@ -14,7 +14,7 @@ footer-links:
   sessionize: AaronJunker
   mastodon: phpc.social/@aaronJunker
 
-url: https://blog.aaron-junker.ch
+url: https://noraajunker.ch
 
 baseurl: ""
 

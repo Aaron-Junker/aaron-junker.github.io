@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: "YML issue template generator"
-Projecturl: "https://blog.aaron-junker.ch/ymlissueteplategenerator/"
+Projecturl: "https://noraajunker.ch/ymlissueteplategenerator/"
 Projecturltitle: Website
 status: Finished
 description: A generator for the new yml issue templates
@@ -9,7 +9,7 @@ description: A generator for the new yml issue templates
 
 ## Project overview
 
-This is a generator for the new yml issue templates. You can find the repository on [GitHub](https://github.com/Aaron-Junker/ymlissueteplategenerator). 
+This is a generator for the new yml issue templates. You can find the repository on [GitHub](https://github.com/Noraa-Junker/ymlissueteplategenerator). 
 
 ## What does this project mean to me
 

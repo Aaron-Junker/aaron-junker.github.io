@@ -131,4 +131,4 @@ As already seen in the screenshots in the WSL section Windows Terminal is a grea
 
 ## Closing words
 
-Whether you're a beginner or an experienced developer,whether you use these tools or not, have fun developing on Windows! And make it your own! Please reach out to me on [X (Twitter)](https://x.com/theredcuber) or per [email](mailto:aaron.junker@outlook.com) and let me know what tools you're using. I hope this article was helpful and you were able to learn something new.
+Whether you're a beginner or an experienced developer,whether you use these tools or not, have fun developing on Windows! And make it your own! Please reach out to me on [X (Twitter)](https://x.com/theredcuber) or per [email](mailto:noraa.junker@outlook.com) and let me know what tools you're using. I hope this article was helpful and you were able to learn something new.

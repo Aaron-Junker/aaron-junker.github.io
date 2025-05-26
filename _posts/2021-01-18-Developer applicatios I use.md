@@ -6,7 +6,7 @@ category: general
 In this article I will present you some of the applications I use to programm. Let's begin!
 
 ## Visual Studio Code
-You can find more information about why I'm using VS Code in the [blogaticle about why I switched to VS Code](https://aaron-junker.github.io/Why-I-switched-to-Visual-Studio-code/).
+You can find more information about why I'm using VS Code in the [blogaticle about why I switched to VS Code](https://noraajunker.ch/Why-I-switched-to-Visual-Studio-code/).
 
 <small>[(Download)](https://code.visualstudio.com/)</small>
 

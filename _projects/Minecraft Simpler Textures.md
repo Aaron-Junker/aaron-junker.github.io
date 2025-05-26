@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: "Minecraft Simpler Textures"
-Projecturl: "https://github.com/Aaron-Junker/minecraft-simpler-textures"
+Projecturl: "https://github.com/noraa-junker/minecraft-simpler-textures"
 Projecturltitle: Visit on GitHub
 status: Currently discontinued
 description: A Minecraft texture pack with very low detailed textures

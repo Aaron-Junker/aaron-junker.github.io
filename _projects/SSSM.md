@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: "SSSM - Super simple state machine"
-Projecturl: "https://github.com/aaron-junker/sssm"
+Projecturl: "https://github.com/noraa-junker/sssm"
 Projecturltitle: Visit on GitHub
 status: Finished
 description: A small state machine for PHP
