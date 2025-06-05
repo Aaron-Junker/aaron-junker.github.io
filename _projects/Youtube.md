@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: "Youtube Channel"
-Projecturl: "https://youtube.com/@aaronjunker"
+Projecturl: "https://youtube.com/@noraajunker"
 Projecturltitle: Visit Youtube channel
 status: active
 description: My Youtube channel
